@@ -3,6 +3,8 @@
 A webcam sign-recognition project using MediaPipe Holistic landmarks and a
 PyTorch LSTM sequence classifier, designed for the WLASL100 subset.
 
+Project page: https://harish-KV-0506.github.io/wlasl-realtime-sign-recognition/
+
 ## Dataset access
 
 WLASL is not bundled with this repository. Before obtaining or using it, read
